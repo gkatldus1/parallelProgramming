@@ -6,7 +6,7 @@ int main(int argc, char** argv){
 
 	int *send_msg;
 	int *recv_msg;
-	int num = 10;
+	int num = 3;
 	int n;
 	int i;
 	MPI_Status status;
